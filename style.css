@@ -1,0 +1,25 @@
+body{
+    background-color: #f0f0f0;
+    font-family:"Google Sans",Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.second{
+    background-color: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+span{
+    color: red;
+    text-decoration: underline;
+}
+.main h1{
+    margin-left: 830px;
+    margin-bottom: 50px;
+}
+.third{
+    justify-content: center;
+    text-align: center;
+}
