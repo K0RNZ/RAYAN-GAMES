@@ -1,5 +1,5 @@
 body{
-    background-color: #f0f0f0;
+    background-color: #ffffff;
     font-family:"Google Sans",Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
     display: flex;
     flex-direction: column;
@@ -10,16 +10,36 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 200px;
+    width: 450px;
+    margin-left: 130px;
+    font-size: 22px;
+    margin-bottom: 50px;
+}
+.second h2{
+    letter-spacing: 0.5em;
 }
 span{
     color: red;
     text-decoration: underline;
 }
 .main h1{
-    margin-left: 830px;
+    margin-left: 270px;
     margin-bottom: 50px;
 }
 .third{
     justify-content: center;
     text-align: center;
+}
+.main img{
+    width: 700px;
+}
+.third img{
+    height: 45px;
+    width: auto;
+    margin-top: 80px;
+}
+.main {
+    background-color: #f0f0f0;
+    padding-bottom: 100px;
 }
